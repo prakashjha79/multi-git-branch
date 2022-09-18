@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    margin: 20px;
+    padding: 10px;
+
+}
+
+li{
+    color:rgb(39, 34, 57);
+}
